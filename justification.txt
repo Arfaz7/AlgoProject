@@ -1,0 +1,4 @@
+1) csvopen moins rapide que bufferreader mais permet de reconnaitre le caractere separateur du content
+2) Liste de List de railway trié par orddre croissant en fonctionde longueur de liste
+3) remove existing path fonctionne toujour puisquon check dans un ensemble plus grand, si un ensemble plus petit ou egal exist
+4) Abstract graph juste pour permettre a subway d etre un graph et appliqué dikstra et bfs
